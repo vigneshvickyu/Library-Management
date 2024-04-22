@@ -24,6 +24,7 @@ UML
 ```
 DEVELOPED BY: VIGNESH M
 REG.NO:212223240176
+```
 ### Usecase Diagram:
 ![Screenshot 2024-04-22 105606](https://github.com/vigneshvickyu/Library-Management/assets/151948835/ea5caf25-16fa-471e-b5e2-06ae116208b6)
 
@@ -41,7 +42,7 @@ REG.NO:212223240176
 
 ### Communication Diagram:
 ![Screenshot 2024-04-22 105815](https://github.com/vigneshvickyu/Library-Management/assets/151948835/16fceba2-49e6-4990-aa2c-10faa939db2a)
-```
+
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
