@@ -21,6 +21,7 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 UML
 ### UML Diagrams:
+```
 DEVELOPED BY: VIGNESH M
 REG.NO:212223240176
 ### Usecase Diagram:
@@ -40,6 +41,7 @@ REG.NO:212223240176
 
 ### Communication Diagram:
 ![Screenshot 2024-04-22 105815](https://github.com/vigneshvickyu/Library-Management/assets/151948835/16fceba2-49e6-4990-aa2c-10faa939db2a)
+```
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
