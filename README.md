@@ -34,15 +34,15 @@ REG.NO:212223240176
 ### Class Diagram:
 ![Screenshot 2024-04-22 105639](https://github.com/vigneshvickyu/Library-Management/assets/151948835/6de447a3-5625-440e-bfb9-37d61fa55706)
 
+### Communication Diagram:
+![Screenshot 2024-04-22 105815](https://github.com/vigneshvickyu/Library-Management/assets/151948835/16fceba2-49e6-4990-aa2c-10faa939db2a)
+
+
 ### Activity Daigram:
 ![Screenshot 2024-04-22 110058](https://github.com/vigneshvickyu/Library-Management/assets/151948835/407a0cdf-3eb1-4642-bf2d-df949f71784c)
 
 ### Package Diagram:
 ![Screenshot 2024-04-22 105958](https://github.com/vigneshvickyu/Library-Management/assets/151948835/2443691a-7800-4a09-b658-696368724370)
-
-### Communication Diagram:
-![Screenshot 2024-04-22 105815](https://github.com/vigneshvickyu/Library-Management/assets/151948835/16fceba2-49e6-4990-aa2c-10faa939db2a)
-
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
