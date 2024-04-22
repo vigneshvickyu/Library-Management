@@ -1,5 +1,4 @@
-LAB-2 LIBRARY MANAGEMENT 
-### Library-Management system
+### LAB-2 Library-Management system
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
