@@ -36,6 +36,11 @@ REG.NO:212223240176
 ![Screenshot 2024-04-22 105815](https://github.com/vigneshvickyu/Library-Management/assets/151948835/16fceba2-49e6-4990-aa2c-10faa939db2a)
 ### Activity Daigram:
 ![Screenshot 2024-04-22 110058](https://github.com/vigneshvickyu/Library-Management/assets/151948835/407a0cdf-3eb1-4642-bf2d-df949f71784c)
+
+### STATECHART DIAGRAM:
+![Screenshot 2024-05-08 111247](https://github.com/vigneshvickyu/Library-Management/assets/151948835/a46e88d5-fa45-4f4e-b0e8-741c8f63c005)
+
+
 ### Package Diagram:
 ![Screenshot 2024-04-22 105958](https://github.com/vigneshvickyu/Library-Management/assets/151948835/2443691a-7800-4a09-b658-696368724370)
 ### RESULT:
